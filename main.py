@@ -1,3 +1,4 @@
+#Kommentar
 def main():
 	print("Erste Funktionalität")
 
