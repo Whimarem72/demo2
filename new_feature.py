@@ -1,2 +1,3 @@
 def printMe():
-	print("Neues Feature")
+	print("Neues Feature...")
+	print("...ist nun vorhanden")
